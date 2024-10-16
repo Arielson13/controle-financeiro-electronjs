@@ -1,0 +1,12 @@
+{
+  "name": "controle-financeiro-electronjs",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^32.2.0"
+  }
+}
